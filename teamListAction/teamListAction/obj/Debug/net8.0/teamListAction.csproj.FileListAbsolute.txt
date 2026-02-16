@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\teamListAction\teamListAction\bin\Debug\net8.0\teamListAction.exe
+C:\Users\Student\Downloads\teamListAction\teamListAction\bin\Debug\net8.0\teamListAction.deps.json
+C:\Users\Student\Downloads\teamListAction\teamListAction\bin\Debug\net8.0\teamListAction.runtimeconfig.json
+C:\Users\Student\Downloads\teamListAction\teamListAction\bin\Debug\net8.0\teamListAction.dll
+C:\Users\Student\Downloads\teamListAction\teamListAction\bin\Debug\net8.0\teamListAction.pdb
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\teamListAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\teamListAction.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\teamListAction.AssemblyInfo.cs
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\teamListAction.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\teamListAction.dll
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\refint\teamListAction.dll
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\teamListAction.pdb
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\teamListAction.genruntimeconfig.cache
+C:\Users\Student\Downloads\teamListAction\teamListAction\obj\Debug\net8.0\ref\teamListAction.dll
